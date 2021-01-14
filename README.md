@@ -8,6 +8,8 @@
 
 * 使用react函数式组件和react类组件的区别。 具体例子参照components下的 Navbar(类组件) LdSwiper(函数式组件)
 
+* 开发环境启动命令：npm run dev 生产环境打包命令: npm run build:weapp(微信小程序)
+
 * src文件说明
   * actions: 具体用法 => 请看redux对于actions的 [用法](https://www.redux.org.cn/docs/basics/Actions.html)
   * assets: 全局公用资源(图片、字体等等)
